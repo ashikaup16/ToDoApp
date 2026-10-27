@@ -2,6 +2,10 @@
 
 A calm, responsive to-do and productivity app for planning your day, organizing projects, and making time for focused work.
 
+## Live app
+
+[Open daymark](https://todoapp-one-virid-48.vercel.app/)
+
 ## Features
 
 - Create, edit, complete, and delete tasks.
